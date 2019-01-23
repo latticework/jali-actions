@@ -6,7 +6,7 @@
 
 - Bootstrapped: Jali builds Jali
 - Composed: The same Jail architecure is built for internal functionality. Only the smallest kernel is proprietary
-- DevOps: embraces both devleopment and operations at all levels
+- DevOps: embraces both development and operations at all levels
 - Open: Only a very small set of broadly available technologies are used.
 - Pluggable: Modular so new platforms or technologies can be integerated.
 

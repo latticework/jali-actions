@@ -5,7 +5,7 @@
 [//]: # (Note: Comment format explained by:                            )
 [//]: # (http://stackoverflow.com/a/32190021                           )
 
-<!-- cSpell:ignore proto letmegrpc -->
+<!-- cSpell:ignore proto letmegrpc knative runtimes istio gloo -->
 <!-- cSpell:words -->
 
 ## Actions
@@ -39,6 +39,8 @@
   - [Kubeless - Introduction](https://serverless.com/framework/docs/providers/kubeless/guide/intro/)
     - [Introducing Golang Functions to Kubeless](https://medium.com/bitnami-perspectives/introducing-golang-functions-to-kubeless-a9a9e4f0cab1)
 - [Today in Serverless and Open Source](https://hackernoon.com/serverless-and-open-source-where-do-we-stand-today-dff8aec67026)
+
+
 
 ## Cloud Native Databases
 
@@ -86,3 +88,22 @@
 - [hcl2json](https://www.hcl2json.com/)
 - [hcl-to-json](https://www.npmjs.com/package/hcl-to-json)
 - [js-yaml](https://www.npmjs.com/package/js-yaml)
+
+## Knative
+
+- [knative](https://cloud.google.com/knative/)
+- [Knative: Serving your Serverless Services](https://blog.openshift.com/knative-serving-your-serverless-services/)
+- [Pivotal - Knative](https://pivotal.io/knative)
+- [Knative, a FaaS anti-pattern?](https://medium.com/galacticfog/knative-a-faas-anti-pattern-1e425b73a90d)
+- [Running Knative Functions with the Azure Functions Runtime](https://triggermesh.com/2018/11/13/running-knative-functions-with-the-azure-functions-runtime/)
+- [Knative Lambda Runtimes](https://github.com/triggermesh/knative-lambda-runtime)
+- [Replacing Kubeless with Knative](https://kyma-project.io/blog/replacing-kubeless-with-Knative)
+
+## Istio
+
+- [What is Istio](https://istio.io/docs/concepts/what-is-istio/)Gloo — Hybrid App Gateway
+
+## Gloo
+
+- [Gloo — Hybrid App Gateway](https://medium.com/solo-io/gloo/home)
+- [New in Gloo: Connect JSON Clients to Your gRPC Services](https://medium.com/solo-io/new-in-gloo-connect-json-clients-to-your-grpc-services-4724656ed15f)
