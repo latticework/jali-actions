@@ -5,8 +5,8 @@
 [//]: # (Note: Comment format explained by:                            )
 [//]: # (http://stackoverflow.com/a/32190021                           )
 
-<!-- cSpell:ignore proto letmegrpc knative runtimes istio gloo -->
-<!-- cSpell:words -->
+<!-- cSpell:ignore proto letmegrpc knative runtimes istio gloo Yuga -->
+<!-- cSpell:words rbac -->
 
 ## Actions
 
@@ -38,9 +38,9 @@
 - [serverless — The most widely-adopted toolkit for building serverless applications](https://serverless.com/)
   - [Kubeless - Introduction](https://serverless.com/framework/docs/providers/kubeless/guide/intro/)
     - [Introducing Golang Functions to Kubeless](https://medium.com/bitnami-perspectives/introducing-golang-functions-to-kubeless-a9a9e4f0cab1)
+    - [Controller configurations for Functions](https://kubeless.io/docs/function-controller-configuration/)
+    - [Using RBAC Authorization](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
 - [Today in Serverless and Open Source](https://hackernoon.com/serverless-and-open-source-where-do-we-stand-today-dff8aec67026)
-
-
 
 ## Cloud Native Databases
 
